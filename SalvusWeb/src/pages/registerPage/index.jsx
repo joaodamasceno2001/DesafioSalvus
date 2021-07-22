@@ -108,7 +108,7 @@ export default function RegisterPage() {
               />
               <input
                 type="text"
-                placeholder="Fcebook username"
+                placeholder="Facebook username"
                 value={facebook}
                 onChange={(e) => setFacebook(e.target.value)}
               />
@@ -121,7 +121,7 @@ export default function RegisterPage() {
 
               <input
                 type="text"
-                placeholder="Skills"
+                placeholder="Competências"
                 value={skills}
                 onChange={(e) => setSkills(e.target.value)}
               />

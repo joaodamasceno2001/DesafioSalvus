@@ -39,6 +39,7 @@ nos propósitos e necessidades da empresa.
   <li>Instalar o yarn</li>
   <ul>
     <li>yarn install</li>
+    <strong>OBS: Caso a conexão com o banco não funcione, verificar a conexão com o mongoDB na pasta src/index.js na pasta SalvusBackEnd (mongodb+srv://joao:987456@cluster0.ewhuj.mongodb.net/test)</strong>
   </ul>
 </ol>
 

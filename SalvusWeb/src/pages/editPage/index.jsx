@@ -40,7 +40,7 @@ export default function EditPage() {
       data.append("email", email);
       data.append("password", password);
       data.append("bio", bio);
-      data.append("skills", skills);
+      data.append("competências", skills);
       data.append("contacts", contacts);
       data.append("twitter", twitter);
       data.append("facebook", facebook);
